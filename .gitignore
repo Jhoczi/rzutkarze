@@ -1,0 +1,54 @@
+# ==========================================
+# .NET / C# / ASP.NET Core
+# ==========================================
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nupkg
+*.snupkg
+thepreflight/
+Publish/
+publish/
+x64/
+x86/
+[Ll]og(s)?/
+[Tt]race(s)?/
+[Bb]uild(s)?/
+
+# ==========================================
+# Angular / Node.js / Frontend
+# ==========================================
+node_modules/
+dist/
+ssr-output/
+.angular/
+.npm
+.yarn/
+.pnp.*
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==========================================
+# System / OS Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
